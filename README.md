@@ -1,5 +1,5 @@
 # UTDLSS-2018
-
+## Hands On 1: Introduction to Keras, Solutions
 Section1 Pass :
 UTDLSS_SEC1
 
