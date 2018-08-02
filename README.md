@@ -11,3 +11,5 @@ Section3 Pass:
 
 Section4 (Complete):
 SECTION4
+## Hands On 2-2:
+intro to keras: RNN
